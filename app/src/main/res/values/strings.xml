@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopulateSecondSpinner</string>
+
+    <string-array name="kategori">
+        <item>A Kategori</item>
+        <item>B Kategori</item>
+    </string-array>
+</resources>
